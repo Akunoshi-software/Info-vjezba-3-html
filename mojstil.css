@@ -1,0 +1,32 @@
+* {
+    margin: 15;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* podnaslovi */
+h2 {
+    color: #333;
+    font-family: Georgia, serif;
+    font-size: 1.5em;
+    margin-top: 15px;
+    text-align: left;
+}
+/* paragrafi */
+p {
+    color: #555;
+    font-family: 'Verdana', sans-serif;
+    line-height: 1.6;
+    text-align: justify;
+}
+/* slike */
+img {
+    display: block;
+    margin: 15px auto;
+    max-width: 100%;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+}
+/* body */
+body {
+    background-color: #ffdbfa;
+}
